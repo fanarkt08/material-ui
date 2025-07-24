@@ -1,4 +1,3 @@
-import React from 'react';
 import { Drawer, List, ListItemButton, ListItemIcon } from '@mui/material';
 import HomeIcon from '@mui/icons-material/Home';
 import GridViewIcon from '@mui/icons-material/GridView';
